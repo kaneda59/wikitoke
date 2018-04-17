@@ -3,6 +3,7 @@
 <!-- SUBTITLE: welcome to the OpenTokenomics wiki main page -->
 
 ## Under Construction. Visit us soon!
+{.is-warning}
 
 
 # Tokenomics
