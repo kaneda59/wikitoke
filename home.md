@@ -2,9 +2,9 @@
 <!-- TITLE: OpenTokenomics -->
 <!-- SUBTITLE: welcome to the OpenTokenomics wiki main page -->
 
-<ul><h1><span style="color: #800080;">Under Construction. Visit us soon!</span></h1></ul>
+<ul><h2><span style="color: #800080;">Under Construction. Visit us soon!</span></h2></ul>
 
-Under Construction. Visit us soon!
+
 
 
 
