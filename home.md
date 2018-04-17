@@ -1,10 +1,9 @@
-
 ![Logoot](/uploads/logoot.png "Logoot"){.pagelogo}
 <!-- TITLE: OpenTokenomics -->
 <!-- SUBTITLE: welcome to the OpenTokenomics wiki main page -->
 
-## Under Construction. Visit us soon!
-> Warning
+`## Under Construction. Visit us soon!`
+
 
 # Tokenomics
 
