@@ -17,7 +17,7 @@ Are we equipped.......
 ## Tokenomics
 
 **Tokens have started to circulate among digital wallets over a P2P internet...
-They have first been the subject of a gold rush since 2018. In their run, the crypto-currency miners and ICO tokens issuers have opened ways to unexpored fields.**
+They have first been the subject of a gold rush since 2018. In their run, the crypto-currency miners and ICO tokens issuers have opened ways to unexplored fields.**
 
 ## Tokenomising?
 * **Issuing *tokens* for accounting our contributions in our association.**
@@ -26,7 +26,7 @@ They have first been the subject of a gold rush since 2018. In their run, the cr
 * **Designing *tokens* for distributing the risk of entrepreneurship.**
 * **Or, distributing via *tokenisation* social security for all without tiers.**
 
-**How?
+How?
 
 ---
 
