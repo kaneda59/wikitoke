@@ -1,5 +1,5 @@
-<!-- TITLE: Open Tokenomics -->
-<!-- SUBTITLE: welcome to the Open Tokenomics wiki main page -->
+<!-- TITLE: OpenTokenomics -->
+<!-- SUBTITLE: welcome to the OpenTokenomics wiki main page -->
 
 # Tokenomics
 ![Wiki](/uploads/wiki.png "Wiki")
