@@ -2,6 +2,8 @@
 <!-- TITLE: OpenTokenomics -->
 <!-- SUBTITLE: welcome to the OpenTokenomics wiki main page -->
 
+<ul>list</ul>
+
 Under Construction. Visit us soon!
 
 
@@ -13,7 +15,6 @@ They have first been the subject of a gold rush since 2018. In their run, the cr
 
 # Tokenomising?
 * **Isuuing *tokens* for accounting our contributions in our association.**
-
 * **Exchanging *tokens* for accessing services from peers.**
 * **Accessing tools that ease associations under a shared governance.**
 * **Designing *tokens* for distributing the risk of entrepreneurship.**
