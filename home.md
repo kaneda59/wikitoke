@@ -1,7 +1,5 @@
 ![Logoot](/uploads/logoot.png "Logoot"){.pagelogo}
 <!-- TITLE: OpenTokenomics -->
-<ul><p>&nbsp;</p></ul>
-<ul><p>&nbsp;</p></ul>
 <!-- SUBTITLE: welcome to the OpenTokenomics wiki main page -->
 
 
