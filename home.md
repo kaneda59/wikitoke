@@ -1,4 +1,4 @@
-![Wiki](/uploads/wiki.png "Wiki"){.pagelogo}
+![Logo](/uploads/logo.png "Logo")
 <!-- TITLE: OpenTokenomics -->
 <!-- SUBTITLE: welcome to the OpenTokenomics wiki main page -->
 
