@@ -2,7 +2,7 @@
 <!-- TITLE: OpenTokenomics -->
 <!-- SUBTITLE: welcome to the OpenTokenomics wiki main page -->
 
-
+Under Construction. Visit us soon!
 
 # Tokenomics
 
