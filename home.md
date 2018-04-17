@@ -1,4 +1,4 @@
-![Logo](/uploads/logo.png "Logo"){.pagelogo}
+![Logoot](/uploads/logoot.png "Logoot"){.pagelogo}
 <!-- TITLE: OpenTokenomics -->
 <!-- SUBTITLE: welcome to the OpenTokenomics wiki main page -->
 
