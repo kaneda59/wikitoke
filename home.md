@@ -1,10 +1,10 @@
 ![Logoot](/uploads/logoot.png "Logoot"){.pagelogo}
 <!-- TITLE: OpenTokenomics -->
-<!-- SUBTITLE: welcome to the OpenTokenomics wiki main page -->
 
 
 
-<h1 style="text-align: center;"><span style="color: #800080;">Under Construction. Visit us soon!</span></h1>
+
+<h1 style="text-align: center;"><span style="color: #800080;">We are connecting people around Open Tokenised economy !</span></h1>
 
 
 
