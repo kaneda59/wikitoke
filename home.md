@@ -19,13 +19,15 @@
 They have first been the subject of a gold rush since 2018. In their run, the crypto-currency miners and ICO tokens issuers have opened ways to unexplored fields.**
 
 ## Factoring
+
+
+## Tokenizing
 * **Issuing *tokens* for accounting our contributions in our association.**
 * **Exchanging *tokens* for accessing services from peers.**
 * **Accessing tools that ease associations under a shared governance.**
 * **Designing *tokens* for distributing the risk of entrepreneurship.**
 * **Or, distributing via *tokenisation* social security for all without tiers.**
-
-## Tokenizing
+## Transitioning 
 
 
 
