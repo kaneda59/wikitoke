@@ -26,7 +26,7 @@ They have first been the subject of a gold rush since 2018. In their run, the cr
 * **Designing *tokens* for distributing the risk of entrepreneurship.**
 * **Or, distributing via *tokenisation* social security for all without tiers.**
 
-** How?
+**How?
 
 ---
 
