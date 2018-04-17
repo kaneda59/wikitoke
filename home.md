@@ -4,9 +4,6 @@
 
 
 
------
-
-
 # Tokenomics
 ![Wiki](/uploads/wiki.png "Wiki")
 
