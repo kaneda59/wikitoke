@@ -27,7 +27,8 @@ They have first been the subject of a gold rush since 2018. In their run, the cr
 * **Or, distributing via *tokenisation* social security for all without tiers.**
 
 **How?
-**
+
+---
 
 Connect: http://meetu.ps/c/3NYHn/wzMq7/f
 
