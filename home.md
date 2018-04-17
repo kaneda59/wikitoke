@@ -5,6 +5,7 @@
 
 
 # Tokenomics
+<h1><span style="color: #800080;">OpenTokenomics</span></h1>
 newsletter: http://newsletter.sodelicious.be/t/ViewEmail/j/06CF53B777A79F3C2540EF23F30FEDED 
 info : www.opentokenomics.io 
 meetup Group:  http://meetu.ps/c/3NYHn/wzMq7/f
