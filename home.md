@@ -10,8 +10,7 @@
 
 
 ## Learning
-Starting up a buisness? The buisness of a few of us for the numerous other ones or the buisness of all of us?
-Are we equipped.......
+
 
 
 ## Connecting
