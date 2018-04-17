@@ -1,4 +1,4 @@
-<!-- TITLE: <span style="color: #800080;">OpenTokenomics</span> -->
+<!-- TITLE: OpenTokenomics -->
 <!-- SUBTITLE: welcome to the OpenTokenomics wiki main page -->
 
 # Tokenomics
