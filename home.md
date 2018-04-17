@@ -1,4 +1,4 @@
-<!-- TITLE: OpenTokenomics -->
+![Wiki](/uploads/wiki.png "Wiki")<!-- TITLE: OpenTokenomics -->
 <!-- SUBTITLE: welcome to the OpenTokenomics wiki main page -->
 
 # Tokenomics
