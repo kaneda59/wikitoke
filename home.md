@@ -29,9 +29,9 @@ They have first been the subject of a gold rush since 2018. In their run, the cr
 **How?
 **
 
-
+### Connect: http://meetu.ps/c/3NYHn/wzMq7/f
 
 newsletter: http://newsletter.sodelicious.be/t/ViewEmail/j/06CF53B777A79F3C2540EF23F30FEDED 
 info : www.opentokenomics.io 
-meetup Group:  http://meetu.ps/c/3NYHn/wzMq7/f
+meetup Group:  
 meetup event pour le 19 Avril :   Mundaneum Factories & OpenTokenomics 
