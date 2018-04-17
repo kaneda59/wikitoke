@@ -1,8 +1,7 @@
 ![Logoot](/uploads/logoot.png "Logoot"){.pagelogo}
 <!-- TITLE: OpenTokenomics -->
 <!-- SUBTITLE: welcome to the OpenTokenomics wiki main page -->
-<!-->
-<!-->
+&
 
 # Tokenomics
 ![Wiki](/uploads/wiki.png "Wiki")
