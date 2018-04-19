@@ -22,9 +22,6 @@
 ## Transitioning 
 
 
-
-How?
-
 ---
 
 Connect: http://meetu.ps/c/3NYHn/wzMq7/f
